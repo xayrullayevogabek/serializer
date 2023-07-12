@@ -1,0 +1,25 @@
+{
+  "name": "serial",
+  "version": "1.0.0",
+  "description": "Javscript from 0 to hero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "serial",
+    "serializer",
+    "serialize-html"
+  ],
+  "author": "Ogabek Khayrullayev",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  },
+  "dependencies": {
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.png",
+      "alt": "vegy",
+      "title": "Plan 'Usual'",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 10
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "alt": "vegy",
+      "title": "Plan 'Premium'",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 30
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "alt": "vegy",
+      "title": "Plan 'Vip'",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 50
+    }
+  ],
+  "request": [
+    {
+      "name": "Og'abek ",
+      "phone": "+998901930535",
+      "id": 1
+    },
+    {
+      "name": "Og'abek ",
+      "phone": "fdsfdsfdf",
+      "id": 2
+    },
+    {
+      "name": "Og'abek ",
+      "phone": "+998901930535",
+      "id": 3
+    },
+    {
+      "name": "ewewew",
+      "phone": "+998901930535",
+      "id": 4
+    },
+    {
+      "name": "Og'abek ",
+      "phone": "3232323",
+      "id": 5
+    },
+    {
+      "name": "Og'abek ",
+      "phone": "+998901930535",
+      "id": 6
+    },
+    {
+      "name": "Og'abek ",
+      "phone": "+998901930535",
+      "id": 7
+    },
+    {
+      "name": "Og'abek ",
+      "phone": "+998901930535",
+      "id": 8
+    }
+  ]
+}
